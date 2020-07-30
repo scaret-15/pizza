@@ -1,0 +1,186 @@
+/*
+     designed by WebTemplateOcean.com
+     http://www.webtemplateocean.com/
+     released under Creative Commons Attribution-ShareAlike 3.0 license
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    padding: 50px 0;
+    font: 16px Georgia, Times, serif;
+    color: #000000;
+    background: #320505 url('images/bg.jpg');
+}
+
+h1, h2 {
+    color: #FFFFFF;
+}
+
+h1 {
+    padding: 30px 0 0 45px;
+    font-size: 36px;
+    font-weight: bold;
+    line-height: 1.2em;
+    letter-spacing: -1px;
+}
+
+h1 a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+h2 {
+    font-weight: normal;
+}
+
+p {
+    padding: .75em 0;
+    line-height: 1.5em;
+    text-align: justify;
+}
+
+a {
+    color: #FFE17B;
+    text-decoration: underline;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+/* page */
+
+#page {
+    width: 980px;
+    margin: 0 auto;
+    background: #BDA687 url('images/page.jpg') repeat-y;
+}
+
+#page2 {
+    background: url('images/top.jpg') no-repeat top;
+}
+
+#page3 {
+    background: url('images/page2.jpg') no-repeat bottom;
+}
+
+/* header */
+
+#header {
+    height: 110px;
+}
+
+p#subtitle {
+    padding: 0 0 0 45px;
+    font-size: 16px;
+    color: #BDA688;
+}
+
+/* menu */
+
+#menu {
+    height: 90px;
+    padding-left: 280px;
+font-size: 18x
+}
+
+#menu ul {
+    list-style: none;
+}
+
+#menu ul li {
+    display: block;
+    float: left;
+    font-size: .75em;
+    line-height: 34px;
+    text-transform: uppercase;
+}
+
+#menu ul li a {
+    display: block;
+    float: left;
+    padding-right: 40px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+#menu ul li a:hover {
+    color: #FFE17B;
+}
+
+/* content */
+
+#content {
+    float: left;
+    width: 550px;
+    padding: 0 0 10px 60px;
+}
+
+#content .post {
+    padding: 0 0 4em 0;
+}
+
+#content h2 {
+    font-size: 3.5em;
+    letter-spacing: -1px;
+}
+
+#content h2 a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+p.postmeta {
+    font-size: .9em;
+}
+
+#content .entry {
+    padding: 1.75em 0 0 0;
+}
+
+/* sidebar */
+
+#sidebar {
+    float: right;
+    width: 300px;
+    padding: 0 60px 40px 0;
+}
+
+#sidebar h2 {
+    font-size: 1.5em;
+}
+
+#sidebar .box {
+    padding: 1em 0;
+}
+
+#sidebar p {
+    text-align: left;
+}
+
+#sidebar ul {
+    list-style: none;
+    padding: 1.5em 0;
+}
+
+#sidebar ul li {
+    line-height: 2.5em;
+    border-bottom: 1px dotted #777777;
+}
+
+/* footer */
+
+#footer {
+    clear: both;
+    padding: 5px 40px 50px 80px;
+}
+
+#footer p {
+/*    font-size: .7em;*/
+    text-transform: uppercase;
+/*    text-align: center;
+*/}

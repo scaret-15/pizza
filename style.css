@@ -44,7 +44,7 @@ p {
 }
 
 a {
-    color: #FFE17B;
+    color: #25241b /*FFE17B*/;
     text-decoration: underline;
 }
 
@@ -104,7 +104,7 @@ font-size: 18x
     display: block;
     float: left;
     padding-right: 40px;
-    color: #FFFFFF;
+    color: #25241b/*FFFFFF*/;
     text-decoration: none;
 }
 
@@ -130,7 +130,7 @@ font-size: 18x
 }
 
 #content h2 a {
-    color: #FFFFFF;
+    color: #25241b/*FFFFFF*/;
     text-decoration: none;
 }
 
